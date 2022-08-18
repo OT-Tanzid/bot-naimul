@@ -1,0 +1,382 @@
+<script src="https://kit.fontawesome.com/ac39dd75a9.js" crossorigin="anonymous"></script>
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0 100px 0 100px;
+}
+.first-section{
+    background-image: url(imags/first-section-1.jpg);
+    width: 100%;
+    display: flex;
+    background-repeat: no repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100vh;
+   color: #235064;
+}
+.first-section-div{
+    width: 50;
+   padding-top: 90px;
+   padding-left: 120px;
+}
+.first-section-div-two{
+    width: 50%;
+    
+}
+.first-section-first-h1{
+    font-size: 50px;
+    color: rgb(220, 122, 105);
+    padding-bottom: 70px;
+}
+.first-section-first-pragrape{
+    font-size: 22px;
+    font-family: inherit;
+    padding-bottom: 60px;
+}
+.first-logo{
+   padding-left: 80px;
+}
+/* ===============================================
+===================================================
+==================================================== */
+.first-div{
+    text-align: center;
+    padding: 50px;
+    background-color: #008FD5;
+    color: aliceblue;
+}
+.first-div-pragraph{
+    font-size: 30px;
+}
+/* ===================================
+========================================
+========================================== */
+.secdion-section{
+    width: 100%;
+    display: flex;
+    background-color: #B1E7FF;
+    padding-bottom: 50px;
+}
+.secdion-section-div-one{
+    font-size: 22px;
+    width: 50%;
+}
+.secdion-section-div-two{
+    width: 50%;
+   
+
+}
+.secdent-h1{
+    padding-left: 150px;
+    padding-top:120px;
+    font-size: 35px;
+    color: azure;
+}
+.secdent-pragraph{
+    padding-left: 150px;
+    padding-top:30px;
+    color: azure; 
+    font-size: 22px;
+    padding-bottom: 50px;
+}
+.first-link{
+    color: #B1E7FF;
+    background-color: rgb(41, 50, 50);
+    padding: 20px 25px;
+    text-decoration: none;
+    padding-left: 30px;
+    border-radius: 30px;
+}
+.secdent-link{
+    color: #b2b8bb;
+    background-color: rgb(48, 95, 196);
+    padding: 20px 25px;
+    text-decoration: none;
+    padding-left: 30px;
+    border-radius: 30px;  
+}
+.first-link:hover{
+    color: #fafbff;
+    background-color: rgb(49, 100, 89);
+    padding: 20px 25px;
+    text-decoration: none;
+    padding-left: 30px;
+    border-radius: 30px;   
+}
+.secdent-link:hover{
+    color: #32384f;
+    background-color: rgb(110, 35, 90);
+    padding: 20px 25px;
+    text-decoration: none;
+    padding-left: 30px;
+    border-radius: 30px;   
+}
+.secdent-first-img{
+    padding-top: 180px;
+    padding-left: 70px;
+    width: 400px;
+    height: 30vh;
+}
+/* ========================================================
+=============================================================
+================================================================= */
+.third-section{
+   background-image: url(imags/6179463c5704774a27eb6d26_1.\ Contingent\ Worker\ vs\ employee.png);
+   width: 100%;
+   /* display: flex; */
+   background-repeat: no-repeat;
+   background-size: 100%;
+   /* background-attachment: fixed; */
+   height: 100vh;
+  color: #235064;
+}
+  
+
+
+.third-first-div{
+    padding-top: 90px;
+    font-size: 35px;
+    font-weight: 800;
+    color: rgb(175, 229, 38);
+    text-align: center;
+
+   
+}
+.first-artical{
+    display: flex;
+    padding-top: 200px;
+    padding-left: 50px;
+    background-repeat: no-repeat;
+}
+.firsr-third-div{
+    width: 30%;
+    padding: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+  
+}
+.secdin-third-div{
+    width: 30%;
+    padding: 50px;
+    color: #fafbff;
+    padding: 40px 30px 5px 30px;
+    background-color: #000000;
+    border-radius: 70px;
+  padding-left: 20px;
+    
+    
+}
+.third-third-div{
+    width: 30%;
+    padding: 50px;
+    color: #fafbff;
+    padding: 30px 20px 5px 30px;
+    background-color: #506976;
+   border-radius: 80px;
+  
+}
+.for-third-div{
+    width: 30%;
+    padding: 50px;
+    color: #fafbff;
+    font-size: 20px;
+}
+.fiv-third-div{
+    text-align: center;
+    padding-top: 60px;
+}
+.five-link{
+    text-decoration: none;
+    padding: 20px 30px;
+    color: #000;
+    background-color: aliceblue;
+    /* text-align: center; */
+    border-radius: 5px;
+}
+.five-link:hover{
+    text-decoration: none;
+    padding: 20px 30px;
+    color: rgb(153, 103, 103);
+    background-color: rgb(104, 149, 189);
+    /* text-align: center; */
+    border-radius: 5px;
+}
+/* ==============================================
+====================================================
+======================================================== */
+.thirds-first-section{
+    width: 100%;
+    display: flex;
+    background-color: #32384f;
+}
+.first-section-third-div{
+    width: 70%;
+    padding: 60px;
+    padding-top: 60px;
+    margin-left: 80px;
+}
+.secdin-section-third-div{
+    width: 50%;
+    padding: 70px;
+    font-size: 25px;
+    
+}
+.list-first-link{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(209, 14, 14);
+    background-color: aliceblue;
+    border-radius: 5px;
+  
+}
+.list-first-link:hover{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(183, 167, 167);
+    background-color: rgb(9, 112, 203);
+    border-radius: 5px;
+}
+.list-secsin-link{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(29, 5, 5);
+    background-color: rgba(208, 232, 204, 0.682);
+    border-radius: 5px; 
+    font-size: 12px;
+}
+.list-secsin-link:hover{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(22, 166, 186);
+    background-color: rgb(121, 123, 125);
+    border-radius: 5px;
+    font-size: 20px;
+}
+/* ==============================================
+====================================================
+====================================================== */
+.first-first-third-div{
+    text-align: center;
+    margin: 20px 60px 30px 60px;
+    padding: 70px 120px 40px 120px;
+    
+}
+.first-first-third-div h1{
+    padding-bottom: 20px;
+}
+.first-first-third-div p{
+    font-size: 24px;
+    padding-bottom: 40px;
+}
+.first-first-link{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(183, 167, 167);
+    background-color: rgb(9, 112, 203);
+    border-radius: 5px; 
+}
+.first-first-link:hover{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(72, 133, 105);
+    background-color: rgb(97, 139, 176);
+    border-radius: 5px; 
+}
+/* ==================================================
+======================================================
+===================================================== */
+.fore-section{
+    width: 100%;
+    display: flex;
+    background-color: #008FD5;
+}
+.fore-first-div{
+    width: 70%;
+    /* padding-top: 90px; */
+    padding: 150px 300px 100px 150px;
+}
+.fore-first-div h1{
+    padding-bottom: 20px;
+    font-size: 30px;
+    color: blueviolet;
+}
+.fore-first-secden-div{
+    width: 50%;
+    padding-top: 120px;
+}
+/* =======================================
+============================================
+=============================================== */
+.fiv-section{
+    width: 100%;
+    display: flex;
+}
+.fiv-first-fiv-section{
+    width: 30%;
+    padding: 40px 20px ;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.fiv-first-section-first-article{
+    margin-left: 60px;
+    display: flex;
+    padding-top: 90px;
+}
+.five-first-third-link:link{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(159, 193, 23);
+    background-color: rgb(9, 112, 203);
+    border-radius: 5px; 
+    margin-left: 500px;
+}
+.five-first-third-link:hover{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(236, 236, 236);
+    background-color: rgb(69, 106, 138);
+    border-radius: 5px; 
+    margin-left: 500px;
+}
+/* ================================================================
+=====================================================================
+======================================================================= */
+.list-section{
+    width: 100%;
+    display: flex;
+    margin-bottom: 40px;
+}
+.list-fist-div{
+    width: 40%;
+    margin-left: 140px;
+    margin-top: 70px;
+}
+.list-list-div{
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.list-list-link{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(202, 219, 211);
+    background-color: rgb(17, 103, 178);
+    border-radius: 5px;  
+}
+.list-list-link:hover{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgb(226, 227, 227);
+    background-color: rgb(41, 178, 17);
+    border-radius: 5px;   
+}
+/* =====================================================
+====================================================== */
+.list-first{
+    text-align: center;
+}
+/* ==============================
+==================================================
+======================================================== */
